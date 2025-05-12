@@ -66,7 +66,7 @@ Still early, expecting minor bugs and possibly some breaking APIs in the short t
 
 **Everything is optional, unless specified otherwise.**
 
-`:id` **Required** The globally unique identifier for this FSM. Can be any type.
+`:id` **Required** The globally unique identifier for this FSM. Must be a keyword.
 
 `:http-xhrio` **Required** Request map as defined by https://github.com/day8/re-frame-http-fx
 
